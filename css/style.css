@@ -1,0 +1,51 @@
+body {
+            font-family: "Trebuchet MS", sans-serif;
+            color: #899069;
+        }
+h1, h2, h3 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: beige;
+text-shadow: 2px 2px 2px black;
+}
+p{
+color: forestgreen;
+}
+figure{
+color: wheat;
+}
+ul{
+color: burlywood;
+}
+li{
+color: olivedrab;
+}
+ol{
+color: blanchedalmond;
+}
+hr{
+color: wheat;
+}
+span{
+color: white;
+}
+input{
+color: gainsboro;
+}
+fieldset{
+color: burlywood;
+}
+legend{
+    color:black;
+}
+
+.wrapper {
+
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+
+}
