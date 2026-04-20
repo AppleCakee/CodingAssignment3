@@ -11,16 +11,16 @@ p{
 color: forestgreen;
 }
 figure{
-color: wheat;
+color: forestgreen;
 }
 ul{
-color: burlywood;
+color: forestgreen;
 }
 li{
 color: olivedrab;
 }
 ol{
-color: blanchedalmond;
+color: forestgreen;
 }
 hr{
 color: wheat;
@@ -32,7 +32,7 @@ input{
 color: gainsboro;
 }
 fieldset{
-color: burlywood;
+color: forestgreen;
 }
 legend{
     color:black;
